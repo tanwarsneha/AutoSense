@@ -1,0 +1,117 @@
+Diagnosis_Encoded,Diagnosis
+0,Acute disseminated encephalomyelitis
+1,Acute motor axonal neuropathy
+2,Addison's disease
+3,Alopecia areata
+4,Anti-NMDA receptor encephalitis
+5,Antiphospholipid syndrome
+6,Autoimmune angioedema
+7,Autoimmune encephalitis
+8,Autoimmune enteropathy
+9,Autoimmune hemolytic anemia
+10,Autoimmune hepatitis
+11,Autoimmune oophoritis
+12,Autoimmune orchitis
+13,Autoimmune pancreatitis
+14,Autoimmune polyendocrine syndrome type 1 (APS1)
+15,Autoimmune polyendocrine syndrome type 2 (APS2)
+16,Autoimmune polyendocrine syndrome type 3 (APS3)
+17,Autoimmune progesterone dermatitis
+18,Autoimmune retinopathy
+19,Autoimmune urticaria
+20,Autoimmune uveitis
+21,Balo concentric sclerosis
+22,Behçet's disease
+23,Bickerstaff's encephalitis
+24,Bullous pemphigoid
+25,Celiac disease
+26,Chronic inflammatory demyelinating polyneuropathy
+27,Cicatricial pemphigoid
+28,Cogan syndrome
+29,Crohn's disease
+30,Dermatitis herpetiformis
+31,Dermatomyositis
+32,Diabetes mellitus type 1
+33,Discoid lupus erythematosus
+34,Endometriosis
+35,Eosinophilic granulomatosis with polyangiitis (EGPA)
+36,Epidermolysis bullosa acquisita
+37,Erythema nodosum
+38,Fibromyalgia
+39,Gestational pemphigoid
+40,Giant cell arteritis
+41,Goodpasture syndrome
+42,Granulomatosis with polyangiitis (GPA)
+43,Graves' disease
+44,Graves' ophthalmopathy
+45,Guillain-Barré syndrome
+46,Hashimoto's encephalopathy
+47,Hashimoto's thyroiditis
+48,Hidradenitis suppurativa
+49,Idiopathic inflammatory demyelinating diseases
+50,Idiopathic pulmonary fibrosis
+51,IgA nephropathy
+52,IgA vasculitis (IgAV)
+53,Immune thrombocytopenia
+54,Inclusion body myositis
+55,Intermediate uveitis
+56,Interstitial cystitis
+57,Interstitial lung disease
+58,Interstitial nephritis
+59,Kawasaki disease
+60,Lambert–Eaton myasthenic syndrome
+61,Leukocytoclastic vasculitis
+62,Lichen planus
+63,Lichen sclerosus
+64,Ligneous conjunctivitis
+65,Linear IgA disease
+66,Lupus nephritis
+67,Lupus vasculitis
+68,Membranous nephropathy
+69,Microscopic polyangiitis (MPA)
+70,Mooren's ulcer
+71,Morphea
+72,Multiple sclerosis
+73,Myasthenia gravis
+74,Myositis
+75,Neuromyelitis optica
+76,Neuromyelitis optica (Devic's disease)/NMOSD
+77,Neuromyotonia
+78,Normal
+79,Opsoclonus myoclonus syndrome
+80,Optic neuritis
+81,Ord's thyroiditis
+82,Paraneoplastic cerebellar degeneration
+83,Paroxysmal nocturnal hemoglobinuria
+84,Pemphigus vulgaris
+85,Pernicious anemia
+86,Polyarteritis nodosa (PAN)
+87,Polymyalgia rheumatica
+88,Polymyositis
+89,Premature ovarian failure
+90,Primary sclerosing cholangitis
+91,Psoriasis
+92,Pulmonary alveolar proteinosis
+93,Restless legs syndrome
+94,Rheumatic heart disease
+95,Rheumatoid arthritis
+96,Rheumatoid lung disease
+97,Rheumatoid vasculitis
+98,Sarcoidosis
+99,Scleritis
+100,Scleroderma (systemic sclerosis)
+101,Sjögren syndrome
+102,Stiff-person syndrome
+103,Susac's syndrome
+104,Sydenham's chorea
+105,Sympathetic ophthalmia
+106,Systemic Lupus Erythematosus
+107,Takayasu's arteritis
+108,Thrombotic thrombocytopenic purpura
+109,Tolosa–Hunt syndrome
+110,Transverse myelitis
+111,Ulcerative colitis
+112,Undifferentiated connective tissue disease (UCTD)
+113,Urticarial vasculitis
+114,Vasculitis
+115,Vitiligo
